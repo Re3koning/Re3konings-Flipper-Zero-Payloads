@@ -1,0 +1,130 @@
+REM This payload lets you automate Bing PC rewards through your phone
+
+REM Simply make sure your phone's browser is set to Desktop mode
+REM open up www.bing.com and press OK on your flipper zero
+
+REM Credz: Re3koning
+
+STRING a
+DELAY 1000
+ENTER
+DELAY 2000
+STRING ab
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abc
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcd
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcde
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdef
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefg
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefgh
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghi
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghij
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijk
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijkl
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklm
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmn
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmno
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnop
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopq
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqr
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrs
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrst
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstu
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuv
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvx
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxy
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyz
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyza
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyzab
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyzabc
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyzabcd
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyzabcde
+DELAY 1000
+ENTER
+DELAY 2000
+STRING abcdefghijklmnopqrstuvxyzabcdef
+DELAY 1000
+ENTER
