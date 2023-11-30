@@ -1,0 +1,134 @@
+REM This payload lets you automate Bing PC rewards through your phone
+REM Now with a longer delay and propper search terms to avoid MS 
+REM Rewards nerfs by microsoft, I also suggest you vary each day with other search
+REM Terms to avoid getting banned (I have more in my github automation folder), this 
+REM One's about Videogame Characters in particular!
+
+REM Simply make sure your phone's browser is set to Desktop mode
+REM open up www.bing.com and press OK on your flipper zero
+
+REM Credz: Re3koning
+
+STRING super mario
+DELAY 1000
+ENTER
+DELAY 7000
+STRING sonic
+DELAY 1000
+ENTER
+DELAY 7000
+STRING crash bandicoot
+DELAY 1000
+ENTER
+DELAY 7000
+STRING rayman
+DELAY 1000
+ENTER
+DELAY 7000
+STRING ratchet clank
+DELAY 1000
+ENTER
+DELAY 7000
+STRING megaman
+DELAY 1000
+ENTER
+DELAY 7000
+STRING jak daxter
+DELAY 1000
+ENTER
+DELAY 7000
+STRING pacman
+DELAY 1000
+ENTER
+DELAY 7000
+STRING abe oddworld
+DELAY 1000
+ENTER
+DELAY 7000
+STRING banjo kazooie
+DELAY 1000
+ENTER
+DELAY 7000
+STRING spyro
+DELAY 1000
+ENTER
+DELAY 7000
+STRING okami
+DELAY 1000
+ENTER
+DELAY 7000
+STRING conker
+DELAY 1000
+ENTER
+DELAY 7000
+STRING samus
+DELAY 1000
+ENTER
+DELAY 7000
+STRING sir daniel
+DELAY 1000
+ENTER
+DELAY 7000
+STRING k k slider
+DELAY 1000
+ENTER
+DELAY 7000
+STRING luigi
+DELAY 1000
+ENTER
+DELAY 7000
+STRING star fox
+DELAY 1000
+ENTER
+DELAY 7000
+STRING metroid
+DELAY 1000
+ENTER
+DELAY 7000
+STRING palutena
+DELAY 1000
+ENTER
+DELAY 7000
+STRING ness
+DELAY 1000
+ENTER
+DELAY 7000
+STRING zelda
+DELAY 1000
+ENTER
+DELAY 7000
+STRING ganondorf
+DELAY 1000
+ENTER
+DELAY 7000
+STRING bayonetta
+DELAY 1000
+ENTER
+DELAY 7000
+STRING wario
+DELAY 1000
+ENTER
+DELAY 7000
+STRING waluigi
+DELAY 1000
+ENTER
+DELAY 7000
+STRING coco bandicoot
+DELAY 1000
+ENTER
+DELAY 7000
+STRING sephiroth
+DELAY 1000
+ENTER
+DELAY 7000
+STRING pyra mythra
+DELAY 1000
+ENTER
+DELAY 7000
+STRING mono and six
+DELAY 1000
+ENTER
+DELAY 7000
+STRING kirby
+DELAY 1000
+ENTER

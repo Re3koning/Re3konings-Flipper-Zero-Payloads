@@ -1,0 +1,134 @@
+REM This payload lets you automate Bing PC rewards through your phone
+REM Now with a longer delay and propper search terms to avoid MS 
+REM Rewards nerfs by microsoft, I also suggest you vary each day with other search
+REM Terms to avoid getting banned (I have more in my github automation folder), this 
+REM One's about songs in particular!
+
+REM Simply make sure your phone's browser is set to Desktop mode
+REM open up www.bing.com and press OK on your flipper zero
+
+REM Credz: Re3koning
+
+STRING the mollusk
+DELAY 1000
+ENTER
+DELAY 7000
+STRING buckingham green
+DELAY 1000
+ENTER
+DELAY 7000
+STRING ocean man
+DELAY 1000
+ENTER
+DELAY 7000
+STRING bittersweet symphony
+DELAY 1000
+ENTER
+DELAY 7000
+STRING american idiot
+DELAY 1000
+ENTER
+DELAY 7000
+STRING the animal i have become
+DELAY 1000
+ENTER
+DELAY 7000
+STRING closer
+DELAY 1000
+ENTER
+DELAY 7000
+STRING xtal
+DELAY 1000
+ENTER
+DELAY 7000
+STRING doin it right
+DELAY 1000
+ENTER
+DELAY 7000
+STRING around the world
+DELAY 1000
+ENTER
+DELAY 7000
+STRING all apologies
+DELAY 1000
+ENTER
+DELAY 7000
+STRING sliver
+DELAY 1000
+ENTER
+DELAY 7000
+STRING in bloom
+DELAY 1000
+ENTER
+DELAY 7000
+STRING yesterday
+DELAY 1000
+ENTER
+DELAY 7000
+STRING truly madly deeply
+DELAY 1000
+ENTER
+DELAY 7000
+STRING feel good inc
+DELAY 1000
+ENTER
+DELAY 7000
+STRING clint eastwood
+DELAY 1000
+ENTER
+DELAY 7000
+STRING invaders must die
+DELAY 1000
+ENTER
+DELAY 7000
+STRING one fine day
+DELAY 1000
+ENTER
+DELAY 7000
+STRING i cant stop
+DELAY 1000
+ENTER
+DELAY 7000
+STRING split the atom
+DELAY 1000
+ENTER
+DELAY 7000
+STRING divide
+DELAY 1000
+ENTER
+DELAY 7000
+STRING the less i know the better
+DELAY 1000
+ENTER
+DELAY 7000
+STRING zombie
+DELAY 1000
+ENTER
+DELAY 7000
+STRING stone in focus
+DELAY 1000
+ENTER
+DELAY 7000
+STRING napoleon solo
+DELAY 1000
+ENTER
+DELAY 7000
+STRING the pretender
+DELAY 1000
+ENTER
+DELAY 7000
+STRING maneater
+DELAY 1000
+ENTER
+DELAY 7000
+STRING something in the way
+DELAY 1000
+ENTER
+DELAY 7000
+STRING strobelite
+DELAY 1000
+ENTER
+DELAY 7000
+STRING silent running
+DELAY 1000
+ENTER

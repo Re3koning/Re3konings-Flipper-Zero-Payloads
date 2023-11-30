@@ -1,0 +1,134 @@
+REM This payload lets you automate Bing PC rewards through your phone
+REM Now with a longer delay and propper search terms to avoid MS 
+REM Rewards nerfs by microsoft, I also suggest you vary each day with other search
+REM Terms to avoid getting banned (I have more in my github automation folder), this 
+REM One's about cartoons in particular!
+
+REM Simply make sure your phone's browser is set to Desktop mode
+REM open up www.bing.com and press OK on your flipper zero
+
+REM Credz: Re3koning
+
+STRING spongebob
+DELAY 1000
+ENTER
+DELAY 7000
+STRING gravity falls
+DELAY 1000
+ENTER
+DELAY 7000
+STRING american dragon
+DELAY 1000
+ENTER
+DELAY 7000
+STRING danny phantom
+DELAY 1000
+ENTER
+DELAY 7000
+STRING emperors new school
+DELAY 1000
+ENTER
+DELAY 7000
+STRING samurai jack
+DELAY 1000
+ENTER
+DELAY 7000
+STRING courage the cowardly dog
+DELAY 1000
+ENTER
+DELAY 7000
+STRING johnny bravo
+DELAY 1000
+ENTER
+DELAY 7000
+STRING my life as a teenage robot
+DELAY 1000
+ENTER
+DELAY 7000
+STRING catdog
+DELAY 1000
+ENTER
+DELAY 7000
+STRING fairly oddparents
+DELAY 1000
+ENTER
+DELAY 7000
+STRING lilo and stitch
+DELAY 1000
+ENTER
+DELAY 7000
+STRING recess
+DELAY 1000
+ENTER
+DELAY 7000
+STRING jimmy neutron
+DELAY 1000
+ENTER
+DELAY 7000
+STRING family guy
+DELAY 1000
+ENTER
+DELAY 7000
+STRING simpsons
+DELAY 1000
+ENTER
+DELAY 7000
+STRING futurama
+DELAY 1000
+ENTER
+DELAY 7000
+STRING south park
+DELAY 1000
+ENTER
+DELAY 7000
+STRING ren and stimpy
+DELAY 1000
+ENTER
+DELAY 7000
+STRING arcane
+DELAY 1000
+ENTER
+DELAY 7000
+STRING kim possible
+DELAY 1000
+ENTER
+DELAY 7000
+STRING randy cunningham
+DELAY 1000
+ENTER
+DELAY 7000
+STRING phineas and ferb
+DELAY 1000
+ENTER
+DELAY 7000
+STRING looney tunes
+DELAY 1000
+ENTER
+DELAY 7000
+STRING tom and jerry
+DELAY 1000
+ENTER
+DELAY 7000
+STRING mickey mouse
+DELAY 1000
+ENTER
+DELAY 7000
+STRING wall e
+DELAY 1000
+ENTER
+DELAY 7000
+STRING xavier renegade angel
+DELAY 1000
+ENTER
+DELAY 7000
+STRING regular show
+DELAY 1000
+ENTER
+DELAY 7000
+STRING adventure time
+DELAY 1000
+ENTER
+DELAY 7000
+STRING kochikame
+DELAY 1000
+ENTER
